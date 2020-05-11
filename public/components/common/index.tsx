@@ -33,6 +33,7 @@ export * from "./Logo";
 export * from "./Toggle";
 export * from "./FiderVersion";
 export * from "./DropDown";
+export * from "./KraftApp";
 
 import Textarea from "react-textarea-autosize";
 export { Textarea };
